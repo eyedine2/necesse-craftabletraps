@@ -1,4 +1,4 @@
-# necesse-craftabletraps
+# Craftable Traps For Necesse
 
 ![preview](https://user-images.githubusercontent.com/65731940/176821307-519a8b74-da97-417d-9421-77906be1a398.png)
 
