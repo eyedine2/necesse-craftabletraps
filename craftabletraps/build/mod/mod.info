@@ -1,0 +1,8 @@
+{
+   id = naii.craftabletraps,
+   name = Craftable Traps,
+   version = 1.0,
+   gameVersion = 0.21.23,
+   description = Lets you craft traps so your killboxes dont look stupid,
+   author = naii,
+}
